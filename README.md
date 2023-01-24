@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning Typescript and Vue
+- 👯 I’m looking to collaborate on a project with new tecnologies
 - 👌🏽 Hobbies: Travel around the world, electronic music, cats
 - ⚡ Fun fact: Coding will soon be as important as reading
 - 📫 Contact: alexis.marquez@icloud.com
