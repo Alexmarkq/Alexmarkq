@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Typescript and Vue
 - 👌🏽 Hobbies: Travel around the world, electronic music, cats
 - ⚡ Fun fact: Coding will soon be as important as reading
-- - 📫 Contact: alexis.marquez@icloud.com
+- 📫 Contact: alexis.marquez@icloud.com
 
 <h3 align="center">Skills:</h3>
 <p align="center">
