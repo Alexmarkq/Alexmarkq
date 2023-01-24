@@ -1,6 +1,4 @@
-![MasterHead]([https://res.cloudinary.com/dcycbjbne/image/upload/v1673961422/github/Estudio_de_Fotografi%CC%81a_Portada_de_Facebook_ejvaka.png](https://res.cloudinary.com/dopb5djap/image/upload/v1674559499/github_mu3glp.jpg))
-
-
+![Masterhead](https://res.cloudinary.com/dopb5djap/image/upload/v1674559625/git_ekve4o.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
