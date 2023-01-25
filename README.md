@@ -1,4 +1,4 @@
-![Masterhead](https://res.cloudinary.com/dopb5djap/image/upload/v1674559625/git_ekve4o.png)
+![Masterhead](https://res.cloudinary.com/dopb5djap/image/upload/v1674677168/github_copia_mrftb5.jpg)
 
 
 - 🔭 I’m currently working on my own projects
