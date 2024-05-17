@@ -1,7 +1,6 @@
 ![Masterhead](https://res.cloudinary.com/dopb5djap/image/upload/v1674677168/github_copia_mrftb5.jpg)
 
 
-
 - 🔭 I’m currently searching a new job
 - 🌱 I’m currently learning Typescript and Vue
 - 👯 I’m looking to collaborate on a project with new technologies
