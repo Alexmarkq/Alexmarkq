@@ -2,6 +2,7 @@
 
 
 
+
 - 🔭 I’m currently searching a new job
 - 🌱 I’m currently learning Typescript and Vue
 - 👯 I’m looking to collaborate on a project with new technologies
