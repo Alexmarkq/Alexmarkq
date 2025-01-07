@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently searching a new job
-- 🌱 I’m currently learning Typescript and Vue
+- 🌱 I’m currently learning Typescript and Redux
 - 👯 I’m looking to collaborate on a project with new technologies
 - 👌🏽 Hobbies: Travel around the world, electronic music, cats
 - ⚡ Fun fact: Coding will soon be as important as reading
